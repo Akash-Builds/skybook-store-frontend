@@ -59,10 +59,10 @@ const router = createBrowserRouter([
           path: "/books/:id",
           element: <SingleBook/>
         },
-         {
-           path: "/user-dashboard",
-          element: <PrivateRoute><UserDashboard/></PrivateRoute>
-         }
+        // {
+        //   path: "/user-dashboard",
+        //   element: <PrivateRoute><UserDashboard/></PrivateRoute>
+        // }
       ]
     },
     {
