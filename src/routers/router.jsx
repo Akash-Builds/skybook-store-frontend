@@ -15,7 +15,7 @@ import Dashboard from "../pages/dashboard/Dashboard";
 import ManageBooks from "../pages/dashboard/manageBooks/ManageBooks";
 import AddBook from "../pages/dashboard/addBook/AddBook";
 import UpdateBook from "../pages/dashboard/EditBook/UpdateBook";
-import CheckOutPage from "../pages/books/CheckoutPage";
+import CheckOutPage from "../pages/books/CheckOutPage";
 
 
 
