@@ -1,5 +1,5 @@
 const getBaseUrl = ()=> {
-    return "http://localhost:5000"
+    return "https://skybook-store-backend-dvdsmcb7u.vercel.app/"
 }
 
 export default getBaseUrl;
